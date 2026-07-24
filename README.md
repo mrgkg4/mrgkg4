@@ -1,6 +1,6 @@
 # Hi 👋, I'm Khalil Guettat
 
-### 💻 ICT Engineering Student | Automation • AI • Fiber Network Systems
+### 💻 ICT Licence Graduate | Automation • AI • Fiber Network Systems
 
 🚀 PFE Intern at Amaris Consulting, staffed on the Orange France account (Guichet OI / PAR France)
 📍 Tunisia
