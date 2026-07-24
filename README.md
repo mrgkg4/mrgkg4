@@ -1,8 +1,8 @@
 # Hi 👋, I'm Khalil Guettat
 
-### 💻 ICT Student | Full-Stack • Automation • AI | Fiber Network Consultant
+### 💻 ICT Engineering Student | Automation • AI • Fiber Network Systems
 
-🚀 PFE Intern at Amaris Consulting, embedded within Orange France's Guichet OI (fiber optic connection management)
+🚀 PFE Intern at Amaris Consulting, staffed on the Orange France account (Guichet OI / PAR France)
 📍 Tunisia
 
 [LinkedIn](https://www.linkedin.com/in/khalilguettat/)
@@ -11,33 +11,26 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Licence-level ICT student at **ENET'Com** (National School of Electronics and Telecommunications of Sfax, University of Sfax)
-- 💼 Currently completing my **Final Year Project (PFE)** at Amaris Consulting, working within Orange France's fiber optic connection management unit
-- 🤖 Building **intelligent automation ecosystems** combining RPA, document AI, and full-stack platforms
-- ⚡ Active member of the **IEEE ENET'Com Student Branch**
+- 🎓 Licence in Communication & Information Technologies (Telecommunication & IoT) — **ENET'Com**, University of Sfax
+  - 🏅 Graduated with highest honor, *Très Bien avec Félicitations du Jury*
+- 💼 Completed my **Final Year Project (PFE)** at Amaris Consulting, embedded with Orange France's fiber optic connection unit
+- ⚡ Active in **IEEE** — HR Committee member (IEEE Young Professionals Tunisia), former ENET'Com SB Chair, IEEE R8 HTB Ambassador
+- 🌐 Comfortable working in French-language telecom/infrastructure environments
 
 ---
 
-## 💼 Professional Experience
+## 🚀 Featured Project — FiberGate
 
-### 🟣 PFE Intern — Amaris Consulting (embedded at Orange France)
+**"Guichet OI: Optimization and Automation of the Fiber Optic Connection Process"**
+Final Year Project, defended June 2026 · co-developed with Mohamed Aziz Miladi
 
-- Working within Orange France's **Guichet OI: PAR** fiber optic connection management unit
-- Designed and built **FiberGate**, a three-pillar intelligent automation ecosystem
-- Automated 9 disconnected tools used by 28 Amaris consultants processing ~112 files/day
-- Achieved **71% aggregate reduction** in processing time across 242 working days, recovering **5,460 hours/year**
+A three-pillar intelligent automation ecosystem built for Orange France:
 
----
+- **🤖 SENTINEL Fleet** — 3 RPA agents automating email parsing (EWS/exchangelib) and task distribution across Planner exports, with round-robin assignment and request-type classification
+- **🧠 FiberGate AI Service** — Document intelligence with LayoutLMv3, reading building permits/certificates/plans and extracting structured data for review
+- **🖥️ Unified Platform** — Single web workspace with live dashboards, JWT role-based access, deployed on Azure, integrated with Microsoft 365
 
-## 🚀 Featured Project
-
-### 🔹 FiberGate — Intelligent Automation Ecosystem
-
-Built for Orange France, co-developed with Mohamed Aziz Miladi. Three pillars:
-
-- **SENTINEL Automation Fleet** — Python/exchangelib/Power Automate RPA agents (POI validation, CAFF returns, task distribution)
-- **FiberGate AI Service** — LayoutLMv3 multimodal document intelligence
-- **Unified Web Platform** — Angular 17 + Spring Boot 3, TiDB, GitHub Actions CI/CD, Azure Container Apps
+**Results:** 71% reduction in processing time across 242 working days, ~5,460 hours/year recovered, automating 9 previously disconnected tools for a 28-person team.
 
 ---
 
@@ -47,13 +40,16 @@ Built for Orange France, co-developed with Mohamed Aziz Miladi. Three pillars:
 ![](https://skillicons.dev/icons?i=angular,html,css,js)
 
 ### ⚙️ Backend
-![](https://skillicons.dev/icons?i=java,spring,python)
+![](https://skillicons.dev/icons?i=java,spring,python,fastapi)
 
 ### 🛢️ Databases
 ![](https://skillicons.dev/icons?i=mysql)
 
 ### 🔧 DevOps & Tools
-![](https://skillicons.dev/icons?i=git,github,githubactions,azure,docker)
+![](https://skillicons.dev/icons?i=git,github,gitlab,azure,docker)
+
+### 🤝 Other
+Microsoft 365 (Planner, Exchange, Teams) • Power Automate • SharePoint • pandas • matplotlib • LaTeX
 
 ---
 
