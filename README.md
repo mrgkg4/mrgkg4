@@ -2,7 +2,7 @@
 
 ### 💻 ICT Licence Graduate | Automation • AI • Fiber Network Systems
 
-🚀 PFE Intern at Amaris Consulting, staffed on the Orange France account (Guichet OI / PAR France)
+🚀 Consultant at Amaris Consulting, staffed on the Orange France account (Guichet OI / PAR France)
 📍 Tunisia
 
 [LinkedIn](https://www.linkedin.com/in/khalilguettat/)
